@@ -29,7 +29,7 @@ He construido sitios web para pequeñas y medianas empresas con el fin de agiliz
 <div align="center" style="border-radius:100%">
 <img src="./fondo_playa.JPG" 
      alt="Descripción de la imagen" 
-     style="width:400px">
+     style="width:350px">
 </div>
 
 # Experiencia Laboral
@@ -55,13 +55,13 @@ Creación una app de entrenamiento físico personalizado, con seguimiento de pro
 <div align="center" style="border-radius:100%">
 <img src="./app_AVI.jpeg" 
      alt="appAVI" 
-     style="width:300px">
+     style="width:250px">
 <img src="./app_AVI2.jpeg" 
      alt="appAVI2" 
-     style="width:300px">
+     style="width:250px">
 <img src="./app_AVI3.jpeg" 
      alt="appAVI3" 
-     style="width:300px">
+     style="width:250px">
 </div>
 </a>
 
@@ -72,10 +72,10 @@ Aplicación móvil para Android y IOS que extrae data de SAP, la almacena en una
 <div align="center" style="border-radius:100%">
 <img src="./web_NFC.webp" 
      alt="webNFC" 
-     style="width:700px">
+     style="width:600px">
 <img src="./web_NFC1.png" 
      alt="webNFC" 
-     style="width:700px">
+     style="width:600px">
 </div>
 </a>
      
@@ -86,10 +86,10 @@ Aplicación web para registrar y consultar equipos y materiales de las subgerenc
 <div align="center" style="border-radius:100%">
 <img src="./web_Training.webp" 
      alt="webTraining" 
-     style="width:700px">
+     style="width:600px">
 <img src="./web_Training2.png" 
      alt="webTraining2" 
-     style="width:700px">
+     style="width:600px">
 </div>
 </a>
      
@@ -100,10 +100,10 @@ Aplicación web con rutinas de entrenamiento físico personalizadas, seguimiento
 <div align="center" style="border-radius:100%">
 <img src="./web_astro.webp" 
      alt="webAstro" 
-     style="width:700px">
+     style="width:600px">
 <img src="./web_astro1.webp" 
      alt="webAstro2" 
-     style="width:700px">
+     style="width:600px">
 </div>
 </a>
      
