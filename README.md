@@ -1,4 +1,10 @@
 # Hola, mi nombre es Michaell Huanca 👋 
+<div align="center" style="border-radius:100%">
+<img src="./perfil_1.JPG" 
+     alt="Perfil" 
+     style="width:200px; height:200px">
+</div>
+
 ### Ingeniero Informático, de Sistemas y Desarrollador Full-Stack / Mobile / DevOps
 <!--
 **MichaellSS06/MichaellSS06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +26,12 @@ Me apasiona construir experiencias web rápidas, eficientes y hermosas, prefiero
 
 He construido sitios web para pequeñas y medianas empresas con el fin de agilizar sus procesos así que si estás intentando diseñar algo para internet ya sea webs, aplicaciones móviles, landing pages, o crear tiendas online yo te puedo ayudar.
 
+<div align="center" style="border-radius:100%">
+<img src="./fondo_playa.JPG" 
+     alt="Descripción de la imagen" 
+     style="width:200px">
+</div>
+
 # Experiencia Laboral
 ### Desarrollador Interno y Operador de Alta Tensión
 #### Red de Energía del Perú
@@ -39,13 +51,51 @@ Creación una app de entrenamiento físico personalizado, con seguimiento de pro
 
 # Proyectos
 ### App de Avisos, Órdenes y Planes de Trabajo
+<a href="https://github.com/MichaellSS06" target="_blank" role="link">
+<div align="center" style="border-radius:100%">
+<img src="./app_AVI.jpeg" 
+     alt="Descripción de la imagen" 
+     style="width:200px">
+<img src="./app_AVI2.jpeg" 
+     alt="Descripción de la imagen" 
+     style="width:200px">
+<img src="./app_AVI3.jpeg" 
+     alt="Descripción de la imagen" 
+     style="width:200px">
+</div>
+</a>
+
 Aplicación móvil para Android y IOS que extrae data de SAP, la almacena en una base de datos y la hace accesible desde el móvil. Implementación: Scripts python para enviar la data a un endpoint creado en Django REST Framework, que a su vez la guarda en una base de datos PostgreSQL de Supabase. La app móvil está desarrollada en React Native y consume la API para mostrar la información a los usuarios.
 
 ### Registro e Histórico de Equipos y Materiales
+<div align="center" style="border-radius:100%">
+<img src="./web_NFC.webp" 
+     alt="Descripción de la imagen" 
+     style="width:500px">
+<img src="./web_NFC1.png" 
+     alt="Descripción de la imagen" 
+     style="width:500px">
+</div>
 Aplicación web para registrar y consultar equipos y materiales de las subgerencias de transmisión con NFC desde el móvil. Implementación: Frontend desarrollado en Next.js con Tailwind CSS para un diseño responsivo y moderno. Backend en NextJS con Node.js que maneja la lógica de negocio y la comunicación con la base de datos en MongoDBAtlas. Se usó JWT para la autenticación segura de usuarios.
 
 ### World Of Training: Web de Entrenamiento
+<div align="center" style="border-radius:100%">
+<img src="./web_Training.webp" 
+     alt="Descripción de la imagen" 
+     style="width:500px">
+<img src="./web_Training2.png" 
+     alt="Descripción de la imagen" 
+     style="width:500px">
+</div>
 Aplicación web con rutinas de entrenamiento físico personalizadas, seguimiento de progreso, históricos y puntuaciones, tiene salas de chats y planes de suscripción con prueba trial. Implementación: Frontend en NextJS con Tailwind CSS para una experiencia de usuario fluida y atractiva. Backend en Supabase donde se maneja la base de datos, autenticación con OAuth, storage para archivos e imágenes, edge functions para API, y realtime para chats. Se integró Paddle para la gestión de pagos y suscripciones.
 
 ### Mi web personal
+<div align="center" style="border-radius:100%">
+<img src="./web_astro.webp" 
+     alt="Descripción de la imagen" 
+     style="width:500px">
+<img src="./web_astro1.webp" 
+     alt="Descripción de la imagen" 
+     style="width:500px">
+</div>
 Página web donde adjunto fotografías de mis viajes con animaciones y transiciones, proyectos personales, progreso físico y redes sociales. Implementación: Desarrollada en Astro para un rendimiento óptimo y tiempos de carga rápidos. Utiliza Markdown para gestionar el contenido de manera sencilla y Tailwind CSS para un diseño limpio y responsivo.
