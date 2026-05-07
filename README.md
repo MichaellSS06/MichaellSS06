@@ -66,7 +66,7 @@ Creación una app de entrenamiento físico personalizado, con seguimiento de pro
 </div>
 </a>
 
-Aplicación móvil para Android y IOS que extrae data de SAP, la almacena en una base de datos y la hace accesible desde el móvil. Implementación: Scripts python para enviar la data a un endpoint creado en Django REST Framework, que a su vez la guarda en una base de datos PostgreSQL de Supabase. La app móvil está desarrollada en React Native y consume la API para mostrar la información a los usuarios.
+Aplicación móvil para Android y IOS que extrae data de SAP, la almacena en una base de datos y la hace accesible desde el móvil. Implementación: Scripts python para enviar la data a un endpoint creado en Django REST Framework, que a su vez la guarda en una base de datos PostgreSQL de Supabase. La app móvil está desarrollada en React Native y consume la API para mostrar la información a los usuarios de acuerdo a sus preferencias de filtros y en visualización modo Gantt, se observan los planes, órdenes asociadas a dichos planes, y avisos asociados a cada orden.
 
 ### Registro e Histórico de Equipos y Materiales
 <a href="https://nfc-nextjs-mongodb-auth.vercel.app/" target="_blank" role="link">
